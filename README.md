@@ -33,12 +33,14 @@ Bevor Sie die Anwendung installieren und ausführen können, stellen Sie sicher,
     cd einfacher-Kalkulator-auf-Mikrocontroller/QtAnwendung
     ```
 
-2. **Öffnen Sie das Projekt in Qt Creator**:
+2. ** Öffnen Sie das Projekt in Qt Creator:
 
-    - Starten Sie Qt Creator.
-    - Wählen Sie `Datei` > `Öffnen Datei oder Projekt...`.
-    - Navigieren Sie zum geklonten Projektverzeichnis und wählen Sie die `.pro`-Datei.
-    - Klicken Sie auf `Öffnen`.
+1. Starten Sie Qt Creator.
+2. Wählen Sie `Datei` > `Öffnen Datei oder Projekt...`.
+3. Navigieren Sie zum geklonten Projektverzeichnis.
+4. Wählen Sie die `CMakeLists.txt`-Datei.
+5. Klicken Sie auf `Öffnen`.
+
 
 3. **Konfigurieren Sie das Projekt**:
 
